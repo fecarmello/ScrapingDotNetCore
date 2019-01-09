@@ -1,2 +1,2 @@
 # ScrapingDotNetCore
- Scraping in a url using HtmlAgilityPack and .Net Core
+ Simple example scraping in a url using HtmlAgilityPack and .Net Core
